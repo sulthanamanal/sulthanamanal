@@ -9,7 +9,7 @@ I build fast, custom websites and e-commerce platforms for UAE businesses — an
 
 ---
 
-### 🚀 Selected work
+###  Selected work
 
 <table>
 <tr>
