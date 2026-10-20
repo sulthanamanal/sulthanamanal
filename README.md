@@ -11,13 +11,38 @@ I build fast, custom websites and e-commerce platforms for UAE businesses — an
 
 ### 🚀 Selected work
 
-| Project | What I built | Stack |
-|---|---|---|
-| [Bab Al Bake](https://babalbake.com) | Bilingual (AR/EN) bakery e-commerce platform — custom-cake builder, rewards, VAT invoices, multi-store delivery, full admin panel | Next.js · Laravel · Filament · MySQL |
-| [The Connect](https://theconnectjobs.com) | Job portal for India & the GCC — candidate/employer dashboards, job search, Razorpay memberships | WordPress · Custom PHP plugin |
-| [Speak & Walk Rehab](https://speakandwalk.ae) | 29-page English/Arabic (RTL) site, hand-coded custom theme with YouTube & Instagram API feeds | PHP · WordPress |
-| [Neospec Trading](https://neospectrading.com) | Corporate website + brochure, product catalogue, enquiry routing, security hardening | HTML · CSS · JavaScript · PHP |
-| Korax Energy | 20-page oil & gas corporate site with careers system and CV uploads | WordPress · Elementor |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://babalbake.com"><img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fbabalbake.com?w=800&h=500" alt="Bab Al Bake website" width="100%"></a>
+<h4><a href="https://babalbake.com">Bab Al Bake</a> — E-commerce platform</h4>
+Bilingual (AR/EN) bakery store: custom-cake builder, rewards, VAT invoices, multi-store delivery, full admin panel.<br>
+<sub><b>Next.js · Laravel · Filament · MySQL</b></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://theconnectjobs.com"><img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Ftheconnectjobs.com?w=800&h=500" alt="The Connect website" width="100%"></a>
+<h4><a href="https://theconnectjobs.com">The Connect</a> — Job portal</h4>
+Recruitment platform for India & the GCC: candidate/employer dashboards, job search, Razorpay memberships.<br>
+<sub><b>WordPress · Custom PHP plugin · Razorpay</b></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://speakandwalk.ae"><img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fspeakandwalk.ae?w=800&h=500" alt="Speak & Walk Rehab website" width="100%"></a>
+<h4><a href="https://speakandwalk.ae">Speak & Walk Rehab</a> — Bilingual website</h4>
+29-page English/Arabic (RTL) site, hand-coded custom theme with YouTube & Instagram API feeds.<br>
+<sub><b>PHP · WordPress · REST APIs</b></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://neospectrading.com"><img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fneospectrading.com?w=800&h=500" alt="Neospec Trading website" width="100%"></a>
+<h4><a href="https://neospectrading.com">Neospec Trading</a> — Corporate website</h4>
+Website + brochure, product catalogue, smart enquiry routing and security hardening.<br>
+<sub><b>HTML · CSS · JavaScript · PHP</b></sub>
+</td>
+</tr>
+</table>
+
+**Also built:** Korax Energy — 20-page oil & gas corporate site with a careers system and CV uploads *(WordPress · Elementor)*.
 
 ### 🛠️ Tech I work with
 
